@@ -1,0 +1,10 @@
+cleric	NOUN
+will	AUX
+be	AUX
+causing	VERB
+us	PRON
+trouble	NOUN
+for	ADP
+years	NOUN
+to	PART
+come	VERB
